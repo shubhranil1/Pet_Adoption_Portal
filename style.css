@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container-fluid_banner {
+    background-image: url(imghome/doghome.png);
+    height: 600PX;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.mid { 
+    color: black;
+   
+}
+.heading
+{
+    color: black;
+}
